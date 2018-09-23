@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FastQC"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="src" path="/megan-ce-master.zip_expanded"/>
+	<classpathentry kind="lib" path="lib/jsc.jar"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse-workspace/liberaries/g-wiz-1.0.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/trimmomatic-master"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse-workspace/sources/jgoodies/jgoodies-common-1.8.1.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="/home/mohamed/eclipse-workspace/liberaries/guava-26.0-jre.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
